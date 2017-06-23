@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SomeSkills</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="salary">Salary</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="show">Show</string>
+    <string name="text_from_database_print_there_if_you_press_show_button">text from database print there if you press show button</string>
+    <string name="sqlitetest">SQLiteTest</string>
+    <string name="jsontest">JSONTest</string>
+    <string name="jsouptest">JSOUPTest</string>
 </resources>
