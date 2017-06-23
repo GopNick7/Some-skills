@@ -9,8 +9,10 @@
     <string name="update">Update</string>
     <string name="delete">Delete</string>
     <string name="show">Show</string>
-    <string name="text_from_database_print_there_if_you_press_show_button">text from database print there if you press show button</string>
+    <string name="databaseSQLite">If you press show button, text from database print there</string>
     <string name="sqlitetest">SQLiteTest</string>
     <string name="jsontest">JSONTest</string>
     <string name="jsouptest">JSOUPTest</string>
+    <string name="parse_json_data">Parse JSON data</string>
+    <string name="parseJSON">If you press button parse, you look there data from file item.txt which is on the site \nhttp://www.vodomer.kharkiv.ua/item.txt</string>
 </resources>

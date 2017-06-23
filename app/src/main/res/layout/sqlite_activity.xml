@@ -109,7 +109,7 @@
                 android:id="@+id/txtShowData"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/text_from_database_print_there_if_you_press_show_button" />
+                android:text="@string/databaseSQLite" />
         </LinearLayout>
     </ScrollView>
 
